@@ -16,3 +16,14 @@ Since DAWEki is fully self-contained in a single HTML file:
 1. Download or clone the repository.
 2. Open `index.html` in any modern web browser.
 3. Grant microphone/audio input permissions when prompted for recording.
+
+<img width="2870" height="1457" alt="Screenshot 2026-09-12 at 11 50 31" src="https://github.com/user-attachments/assets/d7ac6ed7-dc05-4bb3-a853-295c3da97a05" />
+
+<img width="2880" height="1457" alt="Screenshot 2026-09-12 at 11 51 14" src="https://github.com/user-attachments/assets/7a492bb1-bc91-4f40-a9ce-4569df00f609" />
+
+<img width="2880" height="1460" alt="Screenshot 2026-09-12 at 11 51 41" src="https://github.com/user-attachments/assets/fbbf2b6e-828f-4d97-87b1-b94e1126a4a0" />
+
+<img width="2880" height="1460" alt="Screenshot 2026-09-12 at 11 51 36" src="https://github.com/user-attachments/assets/b9859a26-1654-4bdd-bdd8-dac84138babd" />
+
+
+
